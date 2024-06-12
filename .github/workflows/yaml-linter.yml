@@ -1,7 +1,7 @@
 # Summary: GitHub Actions workflow to run a YAML linter on .yml files.
 #
-# Copyright 2024 California Institute of Technology.
-# License: Modified BSD 3-clause – see file "LICENSE" in the project website.
+# Copyright 2024 Michael Hucka
+# License: MIT – see file "LICENSE" in the project website.
 # Website: https://github.com/mhucka/mailmate-hacks
 
 name: YAML file linter
