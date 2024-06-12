@@ -1,0 +1,26 @@
+// Summary: personal key redefinitions for MailMate.
+//
+// See here for more info:
+// - https://manual.mailmate-app.com/custom_key_bindings
+// - https://manual.mailmate-app.com/key_binding_selectors
+//
+// Copyright 2024 Michael Hucka
+// License: MIT – see file "LICENSE" in the project website.
+// Website: https://github.com/mhucka/mailmate-hacks
+
+// Modifiers must be writte in this order: #^~$@
+{
+        "^<"    = ("collapseAll:", "selectLastMessageRow:");
+        "^>"    = ("expandAll:", "selectLastMessageRow:");
+        "^@,"   = "selectFirstMessageRow:";
+        "^@."   = "selectLastMessageRow:";
+        "^@l"   = ("makeFirstResponder:", "mainOutline");
+        "@X"    = "deleteMessage:";
+        "@>"    = "expandThread:";
+        "@<"    = "collapseThread:";
+        "~<"    = ("moveToBeginningOfDocument:");
+        "~>"    = ("moveToEndOfDocument:");
+        "~@f"   = "mailboxSearch:";
+        "n"     = "nextMessage:";
+        "p"     = "previousMessage:";
+}
