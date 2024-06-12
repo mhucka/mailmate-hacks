@@ -7,8 +7,6 @@ authors:
     orcid: https://orcid.org/0000-0001-9105-5960
 title: mailmate-hacks
 abstract: Miscellaneous things I did for my use of MailMate.
-version: 0.0.1
-date-released: 2024-06-12
 url: https://mhucka.github.io/mailmate-hacks
 repository-code: https://github.com/mhucka/mailmate-hacks
 license: MIT

@@ -3,7 +3,6 @@
 Various things I did to customize [MailMate](https://freron.com) for my needs.
 
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat-square)](https://github.com/mhucka/mailmate-hacks/blob/main/LICENSE)
-[![Latest release](https://img.shields.io/github/v/release/mhucka/mailmate-hacks.svg?style=flat-square&color=b44e88&label=Latest%20release)](https://github.com/mhucka/mailmate-hacks/releases)
 
 
 ## Introduction
